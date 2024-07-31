@@ -33,7 +33,8 @@ To set up the project locally:
    ```sh
    git clone [github.com](https://github.com/varungupta04/ChessAI.git)
 
-   ## Navigate
+
+## Navigate
 To explore the project, you can navigate through the following main files and directories:
 - `Chess_main.py`: The main script to run the game.
 - `assets/`: Contains all the graphical assets and resources used in the game.
