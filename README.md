@@ -33,7 +33,7 @@ To explore the project, you can navigate through the following main files and di
 
 ## Contributing
 
-We welcome contributions to enhance ChessAI! You can help by addressing the following areas:
+You are welcomed to contributions to enhance ChessAI! You can help by addressing the following areas:
 
 1. Implement online multiplayer functionality.
 2. Improve the overall code structure, in case you see some 
