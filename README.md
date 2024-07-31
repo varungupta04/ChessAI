@@ -1,4 +1,4 @@
-<img width="756" alt="Screenshot 2024-07-31 at 9 08 12 PM" src="https://github.com/user-attachments/assets/ff2011fa-0a32-4e8c-9723-c94af56f7efc"># ChessAI
+# ChessAI
 
 ## Table of Contents
 - [Description](#description)
@@ -22,8 +22,8 @@ ChessAI is a chess game that features a unique board design while maintaining th
 
 Here are some screenshots of the ChessAI game:
 
-![Screenshot 1](images/ss1.png)
-![Screenshot 2](images/ss2.png)
+<img src="images/ss1.png" alt="Screenshot 1" width="400"/>
+<img src="images/ss2.png" alt="Screenshot 2" width="400"/>
 
 
 ## Installation
