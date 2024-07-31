@@ -37,8 +37,8 @@ To set up the project locally:
 ## Navigate
 To explore the project, you can navigate through the following main files and directories:
 - `Chess_main.py`: The main script to run the game.
-- `assets/`: Contains all the graphical assets and resources used in the game.
-- `docs/`: Documentation and additional resources.
+- `images/`: Contains all the graphical assets and resources used in the game.
+- `req.txt/`: Documentation and additional resources.
 
 
 ## Contributing
